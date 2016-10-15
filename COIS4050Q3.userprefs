@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{9D9A2B45-6E4C-4E49-8C9E-AD40484FA1AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="COIS4050Q3/Program.cs">
+    <Files>
+      <File FileName="COIS4050Q3/Program.cs" Line="14" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/macbookpro/Projects/COIS4050Q3/COIS4050Q3/Program.cs" line="118" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.COIS4050Q3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
